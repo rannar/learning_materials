@@ -1,0 +1,26 @@
+{
+  "name": "async_demo",
+  "version": "1.0.0",
+  "description": "async_demo",
+  "main": "apply.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freewind/async_demo.git"
+  },
+  "keywords": [
+    "async",
+    "demo"
+  ],
+  "author": "rannaryang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freewind/async_demo/issues"
+  },
+  "homepage": "https://github.com/freewind/async_demo#readme",
+  "devDependencies": {
+    "async": "^1.5.2"
+  }
+}
